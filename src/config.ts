@@ -1,0 +1,19 @@
+export const DEFAULT_CONFIG = {
+    INITIAL_ELEMENTS: 50,
+    INITIAL_SPEED: 100,
+    MIN_ELEMENTS: 10,
+    MAX_ELEMENTS: 100,
+    MIN_SPEED: 10,
+    MAX_SPEED: 200,
+    MOBILE_BREAKPOINT: 768,
+    HEIGHT_SCALE_DESKTOP: 0.8,
+    HEIGHT_SCALE_MOBILE: 0.48,
+};
+
+export const COLORS = {
+    PRIMARY: '#3498db',
+    SUCCESS: '#34ba34',
+    DISABLED: '#808080',
+    ACTIVE: '#1E90FF',
+    BAR: 'black',
+};

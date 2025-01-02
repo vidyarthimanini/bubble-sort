@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+      "baseUrl": "./",
+      "target": "ES2020",
+      "module": "ESNext",
+      "lib": ["DOM", "ES2020"],
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "moduleResolution": "node",
+      "resolveJsonModule": true,
+      "isolatedModules": true,
+      "noEmit": false,
+      "outDir": "./dist",
+      "rootDir": "./"
+  },
+  "include": ["/**/*", "utils.ts", "visualizer.ts", "types.ts"],
+  "exclude": ["node_modules"]
+}
