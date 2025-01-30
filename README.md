@@ -2,10 +2,6 @@
 
 A program which allows you to visualize the Bubble Sort algorithm in action. You can generate a new dataset, change its size, and adjust the speed of the visualization.
 
-## Live Demo
-
-Check out the live demo of the project [here](https://sorting-algorithm.pages.dev/)
-
 ## Features
 
 - **Generate New Array:** Create a random array of values to be sorted.
@@ -22,7 +18,6 @@ Check out the live demo of the project [here](https://sorting-algorithm.pages.de
 ## Supported Sorting Algorithms
 
 - Bubble Sort
-- More algorithms to be added soon!
 
 ## Tech Stack
 
@@ -31,8 +26,6 @@ Frontend: HTML, CSS, TypeScript
 Backend: TypeScript 
 
 Build Tool: Vite
-
-Deployment: Vercel
 
 ## Contributing
 
